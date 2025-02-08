@@ -1,4 +1,5 @@
 This Expo app, the Pickle Jar, is created by Makaila Monauni and Elise Insall.
+For when you're in a pickle :) 
 
 
 # Welcome to your Expo app 👋
